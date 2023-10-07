@@ -1,4 +1,4 @@
-# Proyecto [Data Lovers](https://taciga30.github.io/DEV011-data-lovers/src) :two_hearts:
+# Proyecto [Data Lovers](https://marcescala.github.io/DEV011-data-lovers/src/) :two_hearts:
  > *Para acceder a la página web haz clic en el nombre del proyecto ⇑*
 
 ## Desarrolladoras 
